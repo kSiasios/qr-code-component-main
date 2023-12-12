@@ -22,8 +22,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution Repo]([https://your-solution-url.com](https://github.com/kSiasios/qr-code-component-main))
+- Live Site URL: [The Solution]()
 
 ## My process
 
@@ -38,5 +38,5 @@ This project was pretty straight forward. The only thing I had to do to make my 
 
 ## Author
 
-- Website - [Konstantinos Siasios](https://www.your-site.com)
+- GitHub - [Konstantinos Siasios]((https://github.com/kSiasios))
 - Frontend Mentor - [@kSiasios](https://www.frontendmentor.io/profile/kSiasios)
